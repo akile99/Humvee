@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{C5B16FE7-E655-025F-345F-AD9A3ABE329D}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Mirror/Examples/Pong/Scripts/NetworkManagerPong.cs">
+    <Files>
+      <File FileName="Assets/Mirror/Examples/Pong/Scripts/NetworkManagerPong.cs" Line="40" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="ce266cb5-b721-4716-aa10-e3c44eddbbc7" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
